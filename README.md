@@ -1,4 +1,4 @@
-- 👋 Hi, I’m zoe
+- 👋 Hi, I’m Zoe
 - 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate 
