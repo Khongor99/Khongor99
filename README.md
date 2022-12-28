@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zoe
 - 
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate 
+- 🤝 I’m looking to collaborate 
 - 📫 How to reach me. khongorzul.zoe@gmail.com
 
 <!---
